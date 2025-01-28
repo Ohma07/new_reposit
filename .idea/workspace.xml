@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9241a39e-310d-46d5-a930-e83c626ebfcd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HomeWorks/hw6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/Users.db" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/Users.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/lesson7.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +47,11 @@
     "Python.hw5.executor": "Run",
     "Python.hw6.executor": "Run",
     "Python.lesson7.executor": "Run",
+    "Python.lesson8.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "ToolWindow.Run.ShowToolbar": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Acer/PycharmProjects/PythonProject2",
